@@ -8,3 +8,5 @@ Behandeln Sie alle anderen mit Respekt. Kein Mobbing oder Belästigung. Seien Si
 
 ## Berichterstattung
 Wenn Sie Zeuge von unerwünschtem Verhalten sind oder glauben, dass jemand gegen diesen Verhaltenskodex verstößt, teilen Sie dies bitte umgehend einem Teammitglied mit. Ihre Meldung wird ernst genommen und vertraulich behandelt.
+
+Bitte wenden Sie sich an [kontakt@beispiel.de](mailto:kontakt@beispiel.de) für weitere Unterstützung.
