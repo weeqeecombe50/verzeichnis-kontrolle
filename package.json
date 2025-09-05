@@ -1,7 +1,7 @@
 {
   "name": "verzeichnis-kontrolle",
   "version": "1.0.0",
-  "description": "Ein benutzerfreundliches System zur Nachverfolgung von Änderungen im Quellcode.",
+  "description": "Ein benutzerfreundliches System zur Nachverfolgung von Änderungen im Quellcode und zur Verbesserung der Codeverwaltung.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
